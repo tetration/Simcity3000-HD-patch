@@ -3,8 +3,10 @@ Python 2.7 script that patch the game to run in HD resolutions such as 1920x1080
 
 Developer: Tetration
 	Github address: https://github.com/tetration
-	Github repository: 
-	contact: Tetration@outlook.com
+	
+	Github repository: https://github.com/tetration/Simcity3000-HD-patch
+	
+	Developer Contact: Tetration@outlook.com
 
 Simcity 3000 Unlimited HD patch for Windows version:
 
