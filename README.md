@@ -16,13 +16,19 @@ Python 2.7 script tested under Windows 10 64 bit using Simcity 3000 Unlimited GO
 
 
 Instructions to patch the game:
+
  1: Make sure python 2.7 is installed in your current Windows system
+ 
 	1.1: You can download Python to your current OS at: https://www.python.org/downloads/
+	
  2: Download my script
+ 
  3:Place this python script in the same folder in which SC3U.exe can be located at.
+ 
 	  3.1Example of possible location --> C:\GOG Games\SimCity 3000 Unlimited\Apps
 
 4: Run the script(SCU3_HD_patch) by left-clicking twice on it
+
 5: Enjoy running the game in HD resolutions or 4K
 
 
