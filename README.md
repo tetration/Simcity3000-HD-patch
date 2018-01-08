@@ -37,4 +37,4 @@ Instructions to patch the game:
 
 
 Observations:
-	-The Script will make a bacup file of the original executable(SC3U1.exe) of the game before making any changes in it
+	-The Script will make a backup file of the original executable(SC3U1.exe) of the game before making any changes in it
