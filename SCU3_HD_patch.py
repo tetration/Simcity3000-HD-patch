@@ -1,3 +1,7 @@
+#! /usr/bin/env python2
+#Github address: https://github.com/tetration
+#Github repository: https://github.com/tetration/Simcity3000-HD-patch
+#Developer Contact: Tetration@outlook.com
 import os
 import shutil
 import binascii
