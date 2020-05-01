@@ -2,7 +2,7 @@
 
 
 # Simcity3000 HD Resolutions Patch
-Python 2.7 script that patch the game to run in HD resolutions such as 1920x1080 and  4k
+Python 3 and 2.7 script that patches the game to run in HD resolutions such as 1920x1080 and  4k
 
 #Project Webpage
 
