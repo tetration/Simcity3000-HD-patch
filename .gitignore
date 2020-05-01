@@ -1,5 +1,12 @@
-original_hexdata.txt
-original_hexdata.txt
-SC3U.exe
-SC3U1.exe
-SC3U.exe
+/original_hexdata.txt
+/original_hexdata.txt
+/src/python3/original_hexdata.txt
+/src/python3/original_hexdata.txt
+/src/python27/original_hexdata.txt
+/src/python27/original_hexdata.txt
+/src/python3/modified_hexdata.txt
+/src/python3/modified_hexdata.txt
+/src/python27/modified_hexdata.txt
+/src/python27/modified_hexdata.txt
+*.exe
+.vs/

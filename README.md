@@ -13,13 +13,14 @@ Developer: Tetration
 	
 	Github repository: https://github.com/tetration/Simcity3000-HD-patch
 	
-	Developer Contact: Tetration@outlook.com
+	Developer Contact: rafael@theancientscroll.com
 
 Simcity 3000 Unlimited HD patch for Windows version:
 
 By using this python script to patch your exe file you will be able to run the game up to 4k resolutions. 
 However some resolutions are highly unstable and might crash your game. For example any resolution that is not divisible by 8, such as 1600x900 will crash your game.
 
+Python 3 script tested under Windows 10 64 bit using Simcity 3000 Unlimited GOG Edition for our testing purposes
 Python 2.7 script tested under Windows 10 64 bit using Simcity 3000 Unlimited GOG Edition for our testing purposes
 
 
