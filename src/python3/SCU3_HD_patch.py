@@ -15,15 +15,15 @@ def Backup_and_rename_original_file():
 	#copy_rename(os.curdir,"'SCU3.exe1")
 	#shutil.copy2(os.curdir, "SCU3.exe1")
 	#navigate_and_rename(os.curdir)
-	currentDir=str(os.getcwd())
-	fileTolook="\SC3U.exe"
-	finalPath=currentDir+fileTolook
-	print(finalPath)
-	if os.path.isfile(finalPath)==True:
-		src_file=os.path.join(os.curdir,"SC3U.exe")
-		dst_file=os.path.join(os.curdir,"SC3U1.exe")
-		if os.path.exists(dst_file)!=True:
-			shutil.copy2(src_file, dst_file)
+	current_dir=os.getcwd()
+	simcity_filename="SC3U.exe"
+	simcity_backup_filename="SC3U1.exe"
+	simcity_path=os.path.join(current_dir, simcity_filename)
+	print(simcity_path)
+	if os.path.isfile(simcity_path):
+		backup_file=os.path.join(current_dir, simcity_backup_filename)
+		if not os.path.exists(backup_file):
+			shutil.copy2(simcity_path, backup_file)
 		else:
 			print("Error: Couldn't create a backup it looks like a file named SC3U1.exe already exists in the current directory")
 	else:
